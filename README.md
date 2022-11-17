@@ -1,7 +1,7 @@
 # Basictools:
 The container has all basic networking tools , ping, wget, curl, tcpdump etc. etc.
 
-# Useage:
+# Usage:
 The docker image is already posted on quay.io. Some of the ways you can launh it: 
 
 ### For OCP: 
